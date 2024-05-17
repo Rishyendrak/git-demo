@@ -1,11 +1,4 @@
-Demo document
-----------------------------------------------------------------
-Edition	Windows 11 Pro
-Version	21H2
-Installed on	‎12/‎13/‎2023
-OS build	22000.2538
-Experience	Windows Feature Experience Pack 1000.22001.1000.0
-----------------------------------------------------------------
+DELL Systems
 Device name	TL360-1
 Full device name	TL360-1.Technovert.in
 Processor	11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz   2.19 GHz
@@ -13,5 +6,4 @@ Installed RAM	16.0 GB (15.7 GB usable)
 Device ID	DF331A17-7555-4A6C-869A-D29AC61AE0F4
 Product ID	00331-10000-00001-AA713
 System type	64-bit operating system, x64-based processor
-Pen and touch	No pen or touch input is available for this displayed
-
+Pen and touch	No pen or touch input is available for this display
